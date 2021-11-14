@@ -1,7 +1,7 @@
 import { BrowserRouter as Router, Routes, Route, Link } from 'react-router-dom'
-import Dashboard from './Components/Dashboard'
-import Login from './Components/Login'
-import ErrorPage from './Components/ErrorPage'
+import Dashboard from './components/Dashboard'
+import Login from './components/Login'
+import ErrorPage from './components/ErrorPage'
 
 function App() {
   return (

@@ -2,7 +2,7 @@
   "name": "search-github-users",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://FarisBektasevic.github.io/search-github-users",
+  "homepage": "http://FarisBektasevic.github.io",
   "dependencies": {
     "@craco/craco": "^6.4.0",
     "@testing-library/jest-dom": "^5.15.0",
@@ -11,6 +11,7 @@
     "history": "^5.1.0",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
+    "react-icons": "^4.3.1",
     "react-router-dom": "^6.0.0",
     "react-scripts": "4.0.3",
     "web-vitals": "^1.1.2"
